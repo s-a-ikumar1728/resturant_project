@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    text-align: center;
+    border: 2px solid white;
+    
+}
+#main{
+    border: 2px solid white;
+    border-radius: 50px;
+    color: ghostwhite;
+    text-shadow: 0 0 15px red;
+}
+#footer{
+    color: ghostwhite;
+    border: 2px solid whitesmoke;
+    padding: 10px;
+    text-align: center;
+}
+button{
+    background: linear-gradient(45deg,lightgreen,lightblue);
+    border-radius: 50px;
+}
+#btn{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px;
+}
+#nav{
+    text-align: center;
+    margin: 10px;
+}
+a{
+    padding: 10px;
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 25px;
+}
+a:hover{
+    background: linear-gradient(45deg,lightcoral,orange);
+    border-radius: 50px;
+}
+#content{
+    color: ghostwhite;
+    text-align: center;
+}
+h2{
+    text-align: left;
+    text-shadow: 0 0 15px red;
+}
+#veg_content{
+    background-color:lightgreen;
+    color: white;
+    text-shadow: 0 0 15px red;
+}
+img{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border-radius: 50px;
+}
+#Nv_content{
+    background-color:red;
+    color: white;
+    text-shadow: 0 0 15px lightgreen;
+}
+#desert{
+    background:linear-gradient(45deg,chocolate,lightblue);
+    color: white;
+    text-shadow: 0 0 15px lightgreen;
+}
+#btn:hover{
+    background: linear-gradient(45deg,lightgreen,lightblue);
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px;
+}
+
+
+https://codeshare.io/r91lxE
